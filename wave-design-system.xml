@@ -11,7 +11,7 @@
     <item>
       <title>TEST</title>
       <pubDate>Wed, 11 Jul 2018 11:19:04 +0000</pubDate>
-      <enclosure url="testLibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="https://sunguard.github.io/wave-design/testLibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
